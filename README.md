@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Zapata - @rozapa1998</h1>
-<h3 align="center">A passionate frontend developer from Argentina, also I'm studing Game Development and other web tecnologys.</h3>
+<h3 align="center">A passionate frontend developer from Argentina, also I'm studing Game Development and other web technologies.</h3>
 
 - 🔭 I’m currently working at [CODERHOUSE](https://www.coderhouse.com/)
 
